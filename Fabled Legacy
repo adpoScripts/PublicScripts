@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/adpoScripts/MyScripts/refs/heads/Scripts/Fabled%20Legacy"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/adpoScripts/MyScripts/refs/heads/main/Fabled%20Legacy"))()
 -- Made by ADPO and TrollNation, enjoy <3
